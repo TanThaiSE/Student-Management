@@ -1,0 +1,10 @@
+1;18127001;Nguyen Van;An;Male;01;08;2000
+2;18127002;Tran Van;Binh;Male;02;02;2000
+3;18127003;Le Van;Nam;Femal;03;03;2000
+4;18127004;Tran Van;Moi;Femal;04;04;2000
+5;18127005;Thai Van;Chuc;Male;05;07;2000
+6;18127006;Ho Van;Mung;Male;06;07;2000
+7;18127008;Hua Van;Moi;Femal;08;07;2000
+8;18127009;Truong Van;Kiet;Male;09;07;2000
+9;18127010;Do Van;Tung;Male;10;07;2000
+10;18127007;Dinh Van;Nam;Femal;07;07;2000
