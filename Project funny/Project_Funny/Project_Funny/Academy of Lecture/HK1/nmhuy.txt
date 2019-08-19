@@ -1,0 +1,2 @@
+3;CTT001;Nhap mon lap trinh;18CLC1;nmhuy;07/01/2019;01/10/2019;Wed;13:30;5:10;I71
+3;CTT001;Nhap mon lap trinh;18CLC3;nmhuy;07/01/2019;01/10/2019;Tue;13:30;5:10;I73

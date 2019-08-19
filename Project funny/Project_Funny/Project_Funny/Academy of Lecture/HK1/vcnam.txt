@@ -1,0 +1,2 @@
+4;NMC001;Nhap mon cong nghe thong tin 1;18CLC1;vcnam;07/01/2019;01/10/2019;Fri;7:30;11:10;I61
+4;NMC001;Nhap mon cong nghe thong tin 1;18CLC3;vcnam;07/01/2019;01/10/2019;Fri;7:30;11:10;I63

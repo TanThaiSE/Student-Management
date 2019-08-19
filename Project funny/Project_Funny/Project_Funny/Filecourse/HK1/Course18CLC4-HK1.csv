@@ -1,0 +1,5 @@
+﻿No;Course ID;Course Name;Class;LecturerAccount;Start Date;End Date;Day of week;Start Hour;End Hour;Room
+1;MTH001;Toan roi rac;18CLC4;lvnam;07/01/2019;01/10/2019;Wed;13:30;5:30;I44
+2;KNM001;Ky nang mem;18CLC4;nchung;07/01/2019;01/10/2019;Mon;7:30;11:30;I34
+3;CTT001;Nhap mon lap trinh;18CLC4;dbtien;07/01/2019;01/10/2019;Sar;13:30;5:10;I74
+4;NMC001;Nhap mon cong nghe thong tin 1;18CLC4;vtcnhung;07/01/2019;01/10/2019;Thur;7:30;11:10;I64
